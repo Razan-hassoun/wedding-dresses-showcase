@@ -1,0 +1,119 @@
+h1{padding-top: 30px;
+    text-align: left;
+padding-bottom: -500px;
+}
+.i{
+   margin-top: 10px;
+   padding-bottom: 550px;
+   padding-left: 10px;
+   
+}
+
+/*.ic{
+    margin-top: 10px;
+    padding-bottom: 50px;
+   padding-left: 750px;
+
+}*/
+
+
+.razan{
+    padding-left: 20px;
+    padding-top: 90px;
+    margin-top: -190px;
+    padding-bottom: 50px;
+}
+.v{
+    margin: 20px;
+    margin-top: 100px;
+}
+.s{
+    margin-top: 50px;
+   padding-bottom:8000px;
+   padding-left: 10px;
+
+}
+.raz{
+    margin-top: -500px;
+    padding-bottom: -150px;
+    padding-left: 720px;
+}
+.raz2{
+    margin-top: -999px;
+    padding-bottom: -150px;
+    padding-left: 720px;
+}
+.razan3{
+    margin-top: -1600px;
+    padding-bottom: -150px;
+    padding-left: 720px;
+}
+.razan4{
+    margin-top: 20px;
+    padding-bottom: -150px;
+    padding-left: 720px;
+}
+.foor{
+    margin-right:20px ;
+}
+.two{
+    margin-right: 20px;
+}
+
+.sa{
+    margin-top: -1700px;
+    padding-bottom:350px;
+   padding-left: 10px; 
+}
+.imp{
+    margin-top: 150px;
+    padding-top: 700px;
+}
+.raza{
+    margin-top: 50px;
+    padding-bottom: 900px;
+}
+.one{
+padding-left: 10px;
+margin-bottom: 100px;
+}
+.img1{
+    margin-top:-100px;
+}
+.ra{padding-top:  10px;
+
+}
+* {box-sizing: border-box;}
+
+.container {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(255, 255, 255); /* Blanc semi-transparent */
+  color: #000000; 
+  width:  100%;
+
+  opacity:0;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+
+
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}

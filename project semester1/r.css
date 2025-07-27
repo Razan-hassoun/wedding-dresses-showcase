@@ -1,0 +1,67 @@
+.overlay-button {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+ 
+    display: none;
+    background-color: rgba(255, 255, 255, 0.8);
+    color: black;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+  
+}
+
+/* Style pour le bouton lorsqu'il est survolé */
+.image-container:hover .overlay-button {
+    display: block;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+    margin: 30px;
+    
+}
+.image-container1{
+    display: flex;
+margin-top: 100px;}
+    p{
+        margin-left: 10px;
+        font-size: 25px;
+    }
+    body{
+        background-color: pink;
+    }
+    .submit{
+        width:200px;
+        height:50px;
+        font-size: 20px ;
+        font-family: verdana;
+        text-align: center;
+        margin-left: 100px;
+        margin-top: 30px;
+    }
+    .v{
+      display: flex;
+        margin-top: 10px;
+
+    }
+   
+.re{ margin-top: -1200px;
+    padding-bottom:250px;
+   padding-left: 8px; 
+}
+h1{margin-top: 100px;
+}
+.img1{
+    margin-left: 20px;
+}
+.on{
+    margin-left: 20px;
+}
+.i{
+    margin-left: 50px;
+    padding-top: 10px;
+    color:red;
+}
